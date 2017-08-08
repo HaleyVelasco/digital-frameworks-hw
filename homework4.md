@@ -4,3 +4,5 @@ However, in 2017, which is not shown by this chart, the infant mortality rate de
 
 
 ![Alt-Text](BabyDeath.png)
+
+Data courtesy of: http://datacenter.kidscount.org/data/tables/6051-infant-mortality?loc=1&loct=2#detailed/2/2-52/true/869,36,868,867,133/any/12718
