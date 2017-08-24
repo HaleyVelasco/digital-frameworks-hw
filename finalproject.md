@@ -19,6 +19,8 @@ But Moser and Schrode are not alone in their runs for political office. More wom
 That interest also transitioned to voting. Women voted in greater numbers and in higher proportions than men in 2016, consistent with patterns evident in all presidential elections since 1980, according to the Center for American Women and Politics at Rutgers University. Additionally, a larger total population voted in 2016 than historically. 
 “Women have voted in greater proportions than men since 1980, and the number of women voting has been greater than the number of men voting since 1964,” said Debbie Walsh, director at the CAWP, in a statement. 
 
+![Alt-Text](Voting.png)
+
 Despite higher voter turnout from women year after year, only 105 women hold seats in Congress, comprising 19.6% percent of the 535 current members. 
 
 “The political arena is primarily composed of men but this is neither a reflection of women’s lack of ambition, nor of their political apathy; rather, it is very much a reflection of the unseen barriers to women's entry,” said Jennifer Mandelblatt, the founder of Platform, an educational and lobbying organization fighting for young women’s rights.
